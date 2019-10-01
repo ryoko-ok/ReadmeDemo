@@ -1,4 +1,4 @@
-![All About the marvel unierse!](marvel_banner.png "The MCU")
+![Philadelphia's Magic Gardens. This place was so cool!](marvel_banner.png "Philadelphia's Magic Gardens")
 
 # A Retrospective of Phase One of the MCU
 
@@ -16,4 +16,4 @@ Just an editor and git
 team members go here
 
 ## License
-This project is licensed under the mit license.
+This project is licensed under the mit license.gg
